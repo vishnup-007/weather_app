@@ -1,0 +1,146 @@
+.con{
+    display: flex;
+    justify-content: center;
+
+}
+.search-con{
+    
+    width: 500px;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    border: 2px solid #ccc;
+    border-radius: 20px;
+    padding: 5px;
+    border-style: none;
+    
+    
+}
+.search{
+    border-radius: 50px;
+    border-style: none;
+    
+    margin-left: 4px;
+    background:linear-gradient(135deg, #5a6fb5, #8a75c9) ;
+    width: 380px;
+    border-style: none;
+    
+
+}
+
+.btn{
+    background-color: green;
+    border-radius: 20px;
+}
+
+.section1{
+    display: flex;
+}
+
+.section2{
+    width: 300px;
+    height: 200px;
+    border-radius: 5px;
+    margin-left: 200px;
+    margin-top: 30px;
+    color: white;
+    background: rgba(255, 255, 255, 0.2); /* White with 20% opacity */
+    backdrop-filter: blur(10px); /* Adds a frosted glass effect */
+}
+
+.section3{
+    width: 400px;
+    height: 200px;
+    border-radius: 5px;
+    margin-left: 100px;
+    margin-top: 30px;
+    color: white;
+    background: rgba(255, 255, 255, 0.2); /* White with 20% opacity */
+    backdrop-filter: blur(10px); /* Adds a frosted glass effect */
+}
+
+.city{
+    margin-left: 95px;
+    margin-top: 30px;
+}
+
+.date{
+    margin-left: 65px;
+    
+    
+    
+    
+}
+
+
+
+.date p{
+    margin-left: 50px;
+    margin-top: 15px;
+}
+
+.temp{
+    margin-top: -10px;
+    margin-left: 30px;
+}
+
+.current{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.current1{
+    margin-left: 30px;
+}
+
+.date-con{
+    
+
+    width: 550px;
+    height: 100px;
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-left: 300px;
+    color: white;
+    background: rgba(255, 255, 255, 0.2); /* White with 20% opacity */
+    backdrop-filter: blur(10px); /* Adds a frosted glass effect */
+
+}
+
+.data-box{
+    display: flex;
+    margin-top: 40px;
+    justify-content: space-around;
+}
+
+.btn1{
+    
+    background: linear-gradient(135deg, #5a6fb5, #8a75c9);
+    border-radius: 20px;
+    margin-left: 10px;
+    border-style: none;
+    color: white;
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+    
+}
+
+
+.city1{
+    margin-left: 70px;
+    margin-top: 30px;
+    
+}
+
+.city2{
+    margin-left: -10px;
+}
+
+
+.city3{
+    margin-left: 30px;
+    margin-top: 10px;
+}
